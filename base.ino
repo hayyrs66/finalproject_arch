@@ -1,7 +1,8 @@
 void setup() {
-  // setup inicial
+  Serial.begin(9600);
+  Serial.println("Hola Mundo");
 }
 
 void loop() {
-  // loop principal
+  // sin logica
 }
